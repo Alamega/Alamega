@@ -1,16 +1,34 @@
-### Hi there 👋
+![Profile Picture](assets/profile-logo.png)
 
-<!--
-**Alamega/Alamega** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Обо мне
 
-Here are some ideas to get you started:
+### Меня зовут Владислав, я программист Java. Имею высшее образование по специальности "Информационные системы и технологии".
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Навыки
+
+![Java Icon](https://img.shields.io/badge/-Java-orange?style=flat-square&logo=data:image/svg%2bxml;base64,PCFET0NUWVBFIHN2ZyBQVUJMSUMgIi0vL1czQy8vRFREIFNWRyAxLjEvL0VOIiAiaHR0cDovL3d3dy53My5vcmcvR3JhcGhpY3MvU1ZHLzEuMS9EVEQvc3ZnMTEuZHRkIj4KDTwhLS0gVXBsb2FkZWQgdG86IFNWRyBSZXBvLCB3d3cuc3ZncmVwby5jb20sIFRyYW5zZm9ybWVkIGJ5OiBTVkcgUmVwbyBNaXhlciBUb29scyAtLT4KPHN2ZyBmaWxsPSIjZmZmZmZmIiB3aWR0aD0iODAwcHgiIGhlaWdodD0iODAwcHgiIHZpZXdCb3g9IjAgMCAzMiAzMiIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHN0cm9rZT0iI2ZmZmZmZiI+Cg08ZyBpZD0iU1ZHUmVwb19iZ0NhcnJpZXIiIHN0cm9rZS13aWR0aD0iMCIvPgoNPGcgaWQ9IlNWR1JlcG9fdHJhY2VyQ2FycmllciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8+Cg08ZyBpZD0iU1ZHUmVwb19pY29uQ2FycmllciI+IDx0aXRsZT5qYXZhPC90aXRsZT4gPHBhdGggZD0iTTEzLjE2OCAzMC45MDFjNS40MDEgMC4zNDYgMTMuNjk1LTAuMTkxIDEzLjg5MS0yLjc0NyAwIDAtMC4zNzcgMC45NjgtNC40NjQgMS43MzgtMi4yNTcgMC40MDctNC44NTUgMC42MzktNy41MDggMC42MzktMi4xNzMgMC00LjMwOS0wLjE1Ni02LjM5OC0wLjQ1N2wwLjIzOSAwLjAyOGMwLTAuMDAxIDAuNjkxIDAuNTcxIDQuMjQgMC43OTl6TTE5IDEuMDA0czMuMTE3IDMuMTE3LTIuOTU1IDcuOTFjLTQuODY5IDMuODQ1LTEuMTEgNi4wMzgtMC4wMDEgOC41NDMtMi44NDItMi41NjYtNC45MjctNC44MjEtMy41MjktNi45MjIgMi4wNTQtMy4wODUgNy43NDQtNC41OCA2LjQ4Ni05LjUzMXpNMjIuMzkzIDIyLjk3OGM1LjYyNy0yLjkyNCAzLjAyNS01LjczNSAxLjIxLTUuMzU1LTAuMjQ5IDAuMDQ3LTAuNDY1IDAuMTA3LTAuNjc0IDAuMTgybDAuMDMwLTAuMDA5YzAuMTE5LTAuMTY3IDAuMjgzLTAuMjk2IDAuNDc0LTAuMzY5bDAuMDA3LTAuMDAyYzMuNTkzLTEuMjYzIDYuMzU2IDMuNzI1LTEuMTYgNS43MDEgMC4wNDYtMC4wNDEgMC4wODQtMC4wOTAgMC4xMTEtMC4xNDVsMC4wMDEtMC4wMDN6TTEyLjYxNiAxNy41MTJzLTUuNDUxIDEuMjk1LTEuOTI5IDEuNzY0YzAuOTQ4IDAuMDc4IDIuMDUyIDAuMTIyIDMuMTY2IDAuMTIyIDEuNDI0IDAgMi44MzEtMC4wNzMgNC4yMTgtMC4yMTRsLTAuMTc0IDAuMDE0YzIuMjU3LTAuMTkgNC41MjEtMC41OTYgNC41MjEtMC41OTYtMC41MzEgMC4yMzItMC45ODIgMC40NzctMS40MDkgMC43NTZsMC4wMzctMC4wMjJjLTUuNTM1IDEuNDU2LTE2LjIyOCAwLjc3OS0xMy4xNDktMC43MSAxLjM1Ny0wLjcwMyAyLjk2My0xLjExNSA0LjY2NS0xLjExNSAwLjAxOSAwIDAuMDM4IDAgMC4wNTcgMGgtMC4wMDN6TTI1LjE2IDI2LjYyN3MwLjg0OSAwLjY5OS0wLjkzMyAxLjIzOGMtMy4zODkgMS4wMjctMTQuMTA2IDEuMzM2LTE3LjA4MSAwLjA0MS0xLjA3MC0wLjQ2NiAwLjkzNy0xLjExMiAxLjU2Ny0xLjI0NyAwLjI5MS0wLjA3NCAwLjYyNi0wLjExNyAwLjk3LTAuMTE3IDAuMDIzIDAgMC4wNDUgMCAwLjA2OCAwLjAwMWwtMC4wMDMtMGMtMS4xOTEtMC44MzktNy42OTMgMS42NDYtMy4zMDMgMi4zNTggMTEuOTcyIDEuOTQxIDIxLjgyMS0wLjg3NSAxOC43MTYtMi4yNzR6TTE3LjM5NSAxNS4zNDRjMC4zMTQgMC4zNzcgMC41MDUgMC44NjggMC41MDUgMS40MDIgMCAwLjcxOS0wLjM0NiAxLjM1OC0wLjg4IDEuNzU5bC0wLjAwNiAwLjAwNHMzLjY3My0xLjg5NyAxLjk4Ni00LjI3MWMtMS41NzYtMi4yMTQtMi43ODQtMy4zMTQgMy43NTgtNy4xMDggMC0wLjAwMS0xMC4yNjcgMi41NjMtNS4zNjMgOC4yMTR6TTExLjM0NiAyMC45MTVzLTEuMjg1IDAuOTUxIDAuNjc3IDEuMTU1YzAuODU5IDAuMTA4IDEuODUyIDAuMTY5IDIuODYgMC4xNjkgMS44MjYgMCAzLjYwNS0wLjIwMiA1LjMxNS0wLjU4NWwtMC4xNjIgMC4wMzBjMC4zNDQgMC4zMjIgMC43NTUgMC41NzggMS4yMDkgMC43NDRsMC4wMjUgMC4wMDhjLTcuMDk3IDIuMDc2LTE1LjAwNCAwLjE2Mi05LjkyNS0xLjUyMnpNMTIuMDY1IDI0LjE5OHMtMS4xNDYgMC42NjcgMC44MTYgMC44OTJjMC43MTkgMC4xMDcgMS41NDggMC4xNjggMi4zOTIgMC4xNjggMS4zNTQgMCAyLjY3MS0wLjE1NyAzLjkzNC0wLjQ1NWwtMC4xMTYgMC4wMjNjMC40NjcgMC4yODUgMS4wMTAgMC41NTcgMS41NzcgMC43ODJsMC4wNzQgMC4wMjZjLTUuODcyIDIuNTE2LTEzLjI4Ny0wLjE0Ny04LjY3Ni0xLjQzNnoiLz4gPC9nPgoNPC9zdmc+&logoColor=white)
+
+![Thymeleaf Icon](https://img.shields.io/badge/-Thymeleaf-red?style=flat-square&logo=thymeleaf&logoColor=white) ![JavaFX Icon](https://img.shields.io/badge/-JavaFX-red?style=flat-square&logo=data:image/svg%2bxml;base64,PCFET0NUWVBFIHN2ZyBQVUJMSUMgIi0vL1czQy8vRFREIFNWRyAxLjEvL0VOIiAiaHR0cDovL3d3dy53My5vcmcvR3JhcGhpY3MvU1ZHLzEuMS9EVEQvc3ZnMTEuZHRkIj4KDTwhLS0gVXBsb2FkZWQgdG86IFNWRyBSZXBvLCB3d3cuc3ZncmVwby5jb20sIFRyYW5zZm9ybWVkIGJ5OiBTVkcgUmVwbyBNaXhlciBUb29scyAtLT4KPHN2ZyBmaWxsPSIjZmZmZmZmIiB3aWR0aD0iODAwcHgiIGhlaWdodD0iODAwcHgiIHZpZXdCb3g9IjAgMCAzMiAzMiIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHN0cm9rZT0iI2ZmZmZmZiI+Cg08ZyBpZD0iU1ZHUmVwb19iZ0NhcnJpZXIiIHN0cm9rZS13aWR0aD0iMCIvPgoNPGcgaWQ9IlNWR1JlcG9fdHJhY2VyQ2FycmllciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8+Cg08ZyBpZD0iU1ZHUmVwb19pY29uQ2FycmllciI+IDx0aXRsZT5qYXZhPC90aXRsZT4gPHBhdGggZD0iTTEzLjE2OCAzMC45MDFjNS40MDEgMC4zNDYgMTMuNjk1LTAuMTkxIDEzLjg5MS0yLjc0NyAwIDAtMC4zNzcgMC45NjgtNC40NjQgMS43MzgtMi4yNTcgMC40MDctNC44NTUgMC42MzktNy41MDggMC42MzktMi4xNzMgMC00LjMwOS0wLjE1Ni02LjM5OC0wLjQ1N2wwLjIzOSAwLjAyOGMwLTAuMDAxIDAuNjkxIDAuNTcxIDQuMjQgMC43OTl6TTE5IDEuMDA0czMuMTE3IDMuMTE3LTIuOTU1IDcuOTFjLTQuODY5IDMuODQ1LTEuMTEgNi4wMzgtMC4wMDEgOC41NDMtMi44NDItMi41NjYtNC45MjctNC44MjEtMy41MjktNi45MjIgMi4wNTQtMy4wODUgNy43NDQtNC41OCA2LjQ4Ni05LjUzMXpNMjIuMzkzIDIyLjk3OGM1LjYyNy0yLjkyNCAzLjAyNS01LjczNSAxLjIxLTUuMzU1LTAuMjQ5IDAuMDQ3LTAuNDY1IDAuMTA3LTAuNjc0IDAuMTgybDAuMDMwLTAuMDA5YzAuMTE5LTAuMTY3IDAuMjgzLTAuMjk2IDAuNDc0LTAuMzY5bDAuMDA3LTAuMDAyYzMuNTkzLTEuMjYzIDYuMzU2IDMuNzI1LTEuMTYgNS43MDEgMC4wNDYtMC4wNDEgMC4wODQtMC4wOTAgMC4xMTEtMC4xNDVsMC4wMDEtMC4wMDN6TTEyLjYxNiAxNy41MTJzLTUuNDUxIDEuMjk1LTEuOTI5IDEuNzY0YzAuOTQ4IDAuMDc4IDIuMDUyIDAuMTIyIDMuMTY2IDAuMTIyIDEuNDI0IDAgMi44MzEtMC4wNzMgNC4yMTgtMC4yMTRsLTAuMTc0IDAuMDE0YzIuMjU3LTAuMTkgNC41MjEtMC41OTYgNC41MjEtMC41OTYtMC41MzEgMC4yMzItMC45ODIgMC40NzctMS40MDkgMC43NTZsMC4wMzctMC4wMjJjLTUuNTM1IDEuNDU2LTE2LjIyOCAwLjc3OS0xMy4xNDktMC43MSAxLjM1Ny0wLjcwMyAyLjk2My0xLjExNSA0LjY2NS0xLjExNSAwLjAxOSAwIDAuMDM4IDAgMC4wNTcgMGgtMC4wMDN6TTI1LjE2IDI2LjYyN3MwLjg0OSAwLjY5OS0wLjkzMyAxLjIzOGMtMy4zODkgMS4wMjctMTQuMTA2IDEuMzM2LTE3LjA4MSAwLjA0MS0xLjA3MC0wLjQ2NiAwLjkzNy0xLjExMiAxLjU2Ny0xLjI0NyAwLjI5MS0wLjA3NCAwLjYyNi0wLjExNyAwLjk3LTAuMTE3IDAuMDIzIDAgMC4wNDUgMCAwLjA2OCAwLjAwMWwtMC4wMDMtMGMtMS4xOTEtMC44MzktNy42OTMgMS42NDYtMy4zMDMgMi4zNTggMTEuOTcyIDEuOTQxIDIxLjgyMS0wLjg3NSAxOC43MTYtMi4yNzR6TTE3LjM5NSAxNS4zNDRjMC4zMTQgMC4zNzcgMC41MDUgMC44NjggMC41MDUgMS40MDIgMCAwLjcxOS0wLjM0NiAxLjM1OC0wLjg4IDEuNzU5bC0wLjAwNiAwLjAwNHMzLjY3My0xLjg5NyAxLjk4Ni00LjI3MWMtMS41NzYtMi4yMTQtMi43ODQtMy4zMTQgMy43NTgtNy4xMDggMC0wLjAwMS0xMC4yNjcgMi41NjMtNS4zNjMgOC4yMTR6TTExLjM0NiAyMC45MTVzLTEuMjg1IDAuOTUxIDAuNjc3IDEuMTU1YzAuODU5IDAuMTA4IDEuODUyIDAuMTY5IDIuODYgMC4xNjkgMS44MjYgMCAzLjYwNS0wLjIwMiA1LjMxNS0wLjU4NWwtMC4xNjIgMC4wMzBjMC4zNDQgMC4zMjIgMC43NTUgMC41NzggMS4yMDkgMC43NDRsMC4wMjUgMC4wMDhjLTcuMDk3IDIuMDc2LTE1LjAwNCAwLjE2Mi05LjkyNS0xLjUyMnpNMTIuMDY1IDI0LjE5OHMtMS4xNDYgMC42NjcgMC44MTYgMC44OTJjMC43MTkgMC4xMDcgMS41NDggMC4xNjggMi4zOTIgMC4xNjggMS4zNTQgMCAyLjY3MS0wLjE1NyAzLjkzNC0wLjQ1NWwtMC4xMTYgMC4wMjNjMC40NjcgMC4yODUgMS4wMTAgMC41NTcgMS41NzcgMC43ODJsMC4wNzQgMC4wMjZjLTUuODcyIDIuNTE2LTEzLjI4Ny0wLjE0Ny04LjY3Ni0xLjQzNnoiLz4gPC9nPgoNPC9zdmc+&logoColor=white)
+
+![Spring Boot Icon](https://img.shields.io/badge/-Spring_Boot-brightgreen?style=flat-square&logo=spring&logoColor=white) ![Spring Security Icon](https://img.shields.io/badge/-Spring_Security-brightgreen?style=flat-square&logo=spring&logoColor=white) ![Hibernate + JPA Icon](https://img.shields.io/badge/-Hibernate_+_JPA-brightgreen?style=flat-square&logo=hibernate&logoColor=white)
+
+![PostgreSQL Icon](https://img.shields.io/badge/-PostgreSQL-blue?style=flat-square&logo=postgresql&logoColor=white) ![MySQL Icon](https://img.shields.io/badge/-MySQL-blue?style=flat-square&logo=mysql&logoColor=white)
+
+![JavaScript Icon](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white) ![HTML Icon](https://img.shields.io/badge/-HTML-orange?style=flat-square&logo=html5&logoColor=white) ![CSS Icon](https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=css3&logoColor=white)
+
+# Проекты
+
+<div style="color:red; font-size:32px">TODO</div>
+
+- [Мой сайт](https://github.com/Alamega/site-alamega-spring-thymeleaf): Описание проекта.
+- [Дипломный проект (сайт)](https://github.com/Alamega/mitso-diplom-server): Описание проекта.
+- [Дипломный проект (трекер)](https://github.com/Alamega/mitso-diplom-client): Описание проекта.
+- [Метро СПБ](https://github.com/Alamega/mitso-diplom-client): Описание проекта.
+- [Передача файлов в незащищенной среде + подпись](https://github.com/Alamega/mitso-diplom-client): Описание проекта.
+
+# Контакты
+
+- Email: [vladshuman@gmail.com](mailto:vladshuman@gmail.com)
+- Телеграм: [@Alamega](https://t.me/Alamega)
+
+### Я всегда готов обучаться новому и развиваться, поэтому активно изучаю новые технологии и стараюсь быть в курсе последних трендов в области программирования.
