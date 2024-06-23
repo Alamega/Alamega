@@ -20,9 +20,9 @@
 
 ## Проекты
 
-- [Мой сайт](https://github.com/Alamega/alamega-fullstack): Бэкенд на Java Spring Boot и фронтенд на NextJS [->Посмотреть<-](https://alamega.github.io).
+- [Cайт](https://github.com/Alamega/alamega-fullstack): [Бэкенд](https://github.com/Alamega/alamega-fullstack/tree/main/backend) на Java Spring Boot и [фронтенд](https://github.com/Alamega/alamega-fullstack/tree/main/frontend) на NextJS.
 - [Дипломный проект (трекер)](https://github.com/Alamega/mitso-diplom-client): Собирает данные датчиков нагрузки и температур ПК и отправляет серверу.
-- [Дипломный проект (серверу)](https://github.com/Alamega/mitso-diplom-server): Отображает полученные от трекера данные и информирует о систематических превышениях допустимых значений датчиков.
+- [Дипломный проект (сервер)](https://github.com/Alamega/mitso-diplom-server): Поддерживает сайт который отображает полученные от трекера данные и информирует о систематических превышениях допустимых значений датчиков.
 - [Метро СПБ](https://github.com/Alamega/freelance-metrospb): Приложение на JavaFX предназначенное для поиска кратчайшего пути с использованием матрицы смежности и алгоритма Дейкстры на примере метрополитена.
 
 ## Контакты
